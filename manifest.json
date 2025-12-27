@@ -1,0 +1,11 @@
+{
+	"id": "my-plugin",
+	"name": "My Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a plugin for Obsidian (https://obsidian.md).",
+	"author": "Echo Linker",
+	"authorUrl": "https://exholalia.com",
+	"fundingUrl": "https://buymeacoffee.com/exholalia",
+	"isDesktopOnly": false
+}
