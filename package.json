@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-my-plugin",
+	"name": "dataview-bases",
 	"version": "1.0.0",
 	"description": "This is a plugin for Obsidian (https://obsidian.md)",
 	"main": "src/main.js",
@@ -19,11 +19,10 @@
 		"eslint-plugin-obsidianmd": "0.1.9",
 		"globals": "14.0.0",
 		"jiti": "2.6.1",
+		"obsidian": "^1.11.0",
+		"obsidian-dataview": "latest",
 		"tslib": "2.4.0",
 		"typescript": "^5.8.3",
 		"typescript-eslint": "8.35.1"
-	},
-	"dependencies": {
-		"obsidian": "^1.11.0"
 	}
 }
