@@ -1,9 +1,9 @@
 {
-	"id": "my-plugin",
-	"name": "My Plugin",
+	"id": "dataview-bases",
+	"name": "Dataview Bases",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a plugin for Obsidian (https://obsidian.md).",
+	"description": "Use Dataview in your Obsidian Bases.",
 	"author": "Echo Linker",
 	"authorUrl": "https://exholalia.com",
 	"fundingUrl": "https://buymeacoffee.com/exholalia",
